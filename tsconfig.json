@@ -31,7 +31,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "next.config.js"  ],
+, "next.config.js", "pages/fizzbuzz/fizzbuzz.js", "pages/fizzbuzz/fizzbuzz.test.ts"  ],
   "exclude": [
     "node_modules"
   ]
