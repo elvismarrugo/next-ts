@@ -1,11 +1,9 @@
-import React from 'react'
+import Head from 'next/head'
 
-const index = () => {
+export default function Home() {
   return (
     <div>
       <h1>Hola Mundo</h1>
     </div>
   )
 }
-
-export default index
