@@ -1,4 +1,4 @@
-import { Container, Menu, Grid, Icon, Label } from "semantic-ui-react";
+import { Container, Menu, Grid, Icon, Label,  Sidebar  } from "semantic-ui-react";
 import Link from "next/link";
 
 export default function MenuWeb() {
