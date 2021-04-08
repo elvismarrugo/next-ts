@@ -1,6 +1,6 @@
 import { Container, Grid, Image, Input } from 'semantic-ui-react';
 
-export default function TopBar() {
+export default function   TopBar() {
   return (
     <div className="top-bar">
       <Container>

@@ -1,10 +1,10 @@
-import TopBar from '../Header/TopBar';
-import Menu from '../Header/Menu'
+import TopBar from '../Header/TopBar'
+import Side from '../Header/Sidebar'
 export default function Header() {
   return (
-    <div className="header">
+    <div className="side">
       <TopBar />
-      <Menu />
+      <Side />
     </div>
   )
 }

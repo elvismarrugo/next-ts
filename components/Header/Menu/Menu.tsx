@@ -20,10 +20,8 @@ export default function MenuWeb() {
       <Container>
         <Grid>
           <Grid.Column className='menu-left' width={6}>
-            <MenuIzqu/>
           </Grid.Column>
           <Grid.Column className='menu-right' width={6}>
-          <MenuDere/>
           </Grid.Column>
         </Grid>
       </Container>
